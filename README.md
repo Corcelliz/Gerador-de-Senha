@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/85a11a86-6a19-4a12-bf21-6fc75c259211/deploy-status)](https://app.netlify.com/sites/repellerrpg/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c84e55c3-b8f4-44ba-b493-fb37d29c3acb/deploy-status)](https://app.netlify.com/sites/gerandosenha/deploys)
 
 <h3>Aplicação de Gerador de Senha que desenvolvi com a ajuda do curso Dev Samurai</h3><br>
 
